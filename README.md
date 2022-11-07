@@ -7,5 +7,6 @@ Integrantes:
 * Margarita Mawyin
 * Aaron Reyes
 * Carlos Ordonez
+* Luis Abrié
 
 Este respositorio es para documentar las ideaciones a lo largo del desarrollo del proyecto de desarrollo de videojuegos
