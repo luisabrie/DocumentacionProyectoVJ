@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>En busca de hogar</title>
+    <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/feed.xml" rel="self" />
+    <link href="https://luisabrie.github.io/DocumentacionProyectoVJ" />
+    <updated>2022-11-07T05:29:43-05:00</updated>
+    <author>
+        <name>Winners</name>
+    </author>
+    <id>https://luisabrie.github.io/DocumentacionProyectoVJ</id>
+
+    <entry>
+        <title>En busca de hogar - Varios</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-varios.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-varios.html</id>
+            <category term="Ideación III"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T05:28:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Elementos por definir Casa rota en el tablero Hay cartas de preguntas, si caes en la casilla ? Debes responder&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="elementos-por-definir">Elementos por definir</h2>
+<ul>
+<li>Casa rota en el tablero</li>
+<li>Hay cartas de preguntas, si caes en la casilla ? Debes responder la pregunta. Si está bien respondida ganas 5 puntos.
+*Para ingresar al hogar hay que tener 40 puntos</li>
+<li>Casillas por las cuales avanzas, según el número que muestran los 2 dados.</li>
+<li>Casillas donde atropellan o veterinaria voluntaria.</li>
+<li>Si sale el mismo número en los dados, lanza otra vez. Si vuelve a salir otra vez el mismo número, avanza y pierde turno en la próxima ronda.</li>
+<li>Al llegar a una casilla de retos, el jugador tiene que cumplirlo, en caso de que no, se regresa.</li>
+<li>Para entrar a un hogar, tienes que tener una cantidad de puntaje.</li>
+<li>Todo equipo debe llegar al albergue para ganar</li>
+<li><em>Recompensas</em></li>
+<li>Retos , respondiendo preguntas claves que se debe saber sobre mascotas. Si responde bien gana 5ptos.</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>En busca de hogar - Retos</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-retos.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-retos.html</id>
+            <category term="Ideación III"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T05:27:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Todos los jugadores que caigan en las casillas de reto deben cumplirlos, en caso de no hacerlo pierde un punto.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Todos los jugadores que caigan en las casillas de reto deben cumplirlos, en caso de no hacerlo pierde un punto.<br>
+  </p>
+
+    <h2 id="definicin-de-retos">
+      Definición de retos
+    </h2>
+
+  <p>
+    Se sometió a votación para definir si los retos tienen que ser definidos previamente o híbridos:
+  </p>
+
+  <ul>
+    <li>Definidos previamente. 2/6</li><li>Híbridos. 4/6</li>
+  </ul>
+
+  <p>
+    Por tanto los retos serán híbridos y durante el juego la mesa podrá decidir si se cumple un reto de carta o un reto hecho a medida por parte de la mesa.<br>
+  </p>
+
+  <p>
+    Si se escoge un reto hecho a medida, este tiene que tomar en cuenta las condiciones físicas y mentales de los jugadores que están jugando en ese momento
+  </p>
+
+    <h2 id="cartas-de-retos">
+      Cartas de retos
+    </h2>
+
+  <p>
+    1. Bebe Hambriento: Tu compañero de alado se ha convertido en una mamá gato, tu debes hacer como un gatito bebe con hambre.<br>2. Deletréalo: Esta es una vacuna necesaria para perritos deletrea Parvovirus.<br>3. Perrito llorón: Eres un perrito llorón, haz como uno<br>4. Gatito cantarín: Debes cantar una canción como si fueras gato.<br>5. Enredos de gatos: Di el siguiente trabalenguas – ‘’El gato araña a la araña y la araña araña al gato pobre gato lo araña la araña pobre araña que lo araña el gato’’<br>6. Enredos de perros: Di el siguiente trabalenguas- ''Por la calle carretas pasaba un perrito. Pasó una carreta y le partió el rabito. Pobre perrito, cómo lloraba por su rabito."<br>7. Pez en el agua Aguantar el aire 15 segundos<br>8. Ronronéale a tu amigo más cercano.<br>9. Acaríciale a tu amigo tal como lo harías a un gato.<br>10. Maúlla como gata en celo durante 15 segundos.<br>11. Crea un hueso de papel y muerdelo con tu boca, mantenlo ahí por 15 segundos.<br>12. ¡Oh! “Un poste, un poste, un poste”, es hora de marcar tu territorio.<br>13. Ladrando ando: Ladrale 5 veces a la persona de la derecha.<br>14. Vuelta lineal: Dar 5 vueltas y caminar en línea recta.<br>15. Perro por una ronda: Ladra cada vez que un participante lance los dados durante una ronda.<br>16. Gato por una ronda: Maullar cada vez que un participante lance los dados durante una ronda.<br>17. Gallina cocinera: Es hora de mostrar su capacidad para enseñar a los otros a cocinar. Como si fuera una gallina, con cacareos y moviendo las alas, debe explicar a los otros una receta sencilla, por ejemplo, preparar un huevo o hacer una tortilla.<br>18. Risa ovina: Empiece a reírse simulando el sonido de una oveja hasta contagiar de la risa al menos a otra persona. Puede hacer muecas y payasadas<br>19. Mentiroso profesional: El jugador debe decir una mentira o un chisme que se acaba de inventar, por lo menos que dure un minuto hablando (puede ser de algún acto heroico que quisiera hacer pero nunca se atrevió, un suceso extraordinario que supuestamente acaba de presenciar). Los demás pueden hacerle preguntas para ayudarle a alargar y contar la historia.<br>20. Estatuas: Quedarse quieto como una estatua. Debe hacerlo por 2 minutos. Si se mueve, empieza otra vez a contar el tiempo. Los demás jugadores tratarán de hacerlo mover, estornudar, reírse, estremecerse, pero sin tocarlo.<br>21. Bailar con la escoba o el trapero: la canción que los demás escojan, hasta que se termine. Para agregarle dificultad, que también cante.<br>22. Te tienen que hacer 5 preguntas. Y en todas debes responder con mentiras y de forma rápida.<br>23. Intenta perseguir tu propia “cola” durante 30 segundos<br>24. No parpadeos por 20 segundos consecutivos<br>25. Haz 20 saltos como conejo moviéndote por el espacio que tengas a tu alrededor<br>26. Camina para atrás por 30 segundos<br>27. Sin pararse de la silla, canta y haz pasos de La Makarena pero solo con miaus<br>28. Haz señales que haría un perrito o gatito para pedir comida<br>29. Respira con la lengua hacia afuera como perro por 20 segundos<br>30. Rascarte la cabeza con el pie<br>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>En busca de hogar - Parada libre</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-parada-libre.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-parada-libre.html</id>
+            <category term="Ideación III"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T05:23:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Concepto de parada libre Si es en equipos, y uno del equipo llega con más de la cantidad de puntos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="concepto-de-parada-libre">Concepto de parada libre</h2>
+<p>Si es en equipos, y uno del equipo llega con más de la cantidad de puntos requeridos para ganar el juego, se podrían los puntos a disposición de los demás jugadores que lleguen a la parada libre. 6/7</p>
+<ul>
+<li>Opcional 3/7</li>
+<li>Obligatorio 4/7</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>En busca de hogar - Castigos</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-castigos.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/en-busca-de-hogar-castigos.html</id>
+            <category term="Ideación III"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T05:22:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Aceptados Quitarse 10 puntos y ponerlos sobre la mesa, el siguiente jugador que saca el numero X se lleva los&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="aceptados">Aceptados</h2>
+<ol>
+<li>Quitarse 10 puntos y ponerlos sobre la mesa, el siguiente jugador que saca el numero X se lleva los puntos (incluye un banco de puntos) 7/7</li>
+<li>Avanza la mitad del numero de casillas por avanzar en el siguiente turno.  5/7</li>
+<li>N turnos impares serán anulados 5/7</li>
+<li>¿Estas sintiendo mucha hambre? Ahora solo te moverás con un dado N turnos 5/7</li>
+<li>Pierdes el siguiente turno 5/7</li>
+<li>El jugador o el equipo del jugador pierde la cantidad de puntos que le salga al tirar el dado. 5/7</li>
+<li>Pierde la mitad de puntos 4/7</li>
+<li>Oh no, los dueños se han mudado, la casa se moverá 4/7</li>
+<li>Regresa al inicio del tablero. 4/7</li>
+<li>En el siguiente turno retrocede los putnos que te saldrán en el/los dado(s) 4/7</li>
+<li>Te han encerrado en tu bote de basura, pierdes todos tus puntos 3/7</li>
+<li>El jugador pierde 10 puntos y si es en equipo tendrá que elegir que jugador de tu equipo perderá los 10 puntos. 3/7</li>
+<li>Todos los jugadores (de tu grupo) pierden los puntos de esta ronda (todos los jugadores tirararon dados) 3/7</li>
+<li>Tu compañero o tu pierden 15 puntos 3/7</li>
+<li>No recibes puntos de la próxima pregunta o reto que completes 2/7</li>
+</ol>
+<h2 id="descartados">Descartados</h2>
+<ul>
+<li>Se hizo de noche, es mejor que te resguardes, espera 3 turnos individuales para avanzar. 2/7</li>
+<li>El jugador vuelve al inicio de la partida. 2/7</li>
+<li>Pasa al inicio del tablero y pierde la mitad de tus puntos. 1/7</li>
+<li>Viaja en dirección contraria por tres turnos. 1/7</li>
+<li>Todos tus turnos impares serán anulados. 1/7</li>
+</ul>
+<h2 id="organizados-por-dificultad">Organizados por dificultad</h2>
+<ol>
+<li>Te han encerrado en un bote de basura, pierdes todos tus puntos</li>
+<li>Quitarse 10 puntos y ponerlos sobre la mesa, el siguiente jugador que saca el numero X se lleva los puntos (incluye un banco de puntos)</li>
+<li>Todos los jugadores (de tu grupo) pierden los puntos de esta ronda (todos los jugadores tirararon dados). Si es tu primer turno, gira la ruleta nuevamente.</li>
+<li>Tus N turnos impares serán anulados</li>
+<li>Regresa al inicio del tablero.</li>
+<li>Pierde la mitad de puntos</li>
+<li>¿Estas sintiendo mucha hambre? Ahora solo te moverás con un dado N turnos</li>
+<li>El jugador o el equipo del jugador pierde la cantidad de puntos que le salga al tirar el dado.</li>
+<li>Oh no, los dueños se han mudado, la casa se moverá</li>
+<li>En el siguiente turno retrocede los puntos que te saldrán en el/los dado(s)</li>
+<li>Tu compañero o tu pierden 15 puntos</li>
+<li>El jugador pierde 10 puntos y si es en equipo tendrá que elegir que jugador de tu equipo perderá los 10 puntos.</li>
+<li>No recibes puntos de la próxima pregunta o reto que completes</li>
+<li>Avanza la mitad del número de casillas del siguiente turno.</li>
+<li>Pierdes el siguiente turno.</li>
+</ol>
+<h2 id="mecanicas-para-obtener-el-castigo">Mecanicas para obtener el castigo</h2>
+<ul>
+<li>Una ruleta en una computadora 7/7</li>
+<li><ul>
+<li>Más difíciles, tienen un sector circular más grande (diferente probabilidad por castigo) 5/7</li>
+</ul>
+</li>
+<li><ul>
+<li>Todos con la misma probabilidad. 3/7</li>
+</ul>
+</li>
+<li>Ruleta física 6/7</li>
+<li>Castigo aleatorio definido por un computador. 5/7</li>
+<li>Asociación del castigo a una referencia obtenida por un par de dados revisada en una lista numerada 4/7</li>
+<li>Cartas 3/7</li>
+</ul>
+<p> </p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>En busca de hogar - Preguntas</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/preguntas.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/preguntas.html</id>
+            <category term="Ideación III"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T05:13:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Margarita Mawyin Koriakova Luis Andres Abrie Cuevas 2 1 2022-11-07T10:09:00Z 2022-11-07T10:09:00Z 9 2045 11252 93 26 13271 16.00 0x010100199222A0C208FF428375472E2D42D294 0&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <!-- [if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Margarita Mawyin Koriakova</o:Author>
+  <o:LastAuthor>Luis Andres Abrie Cuevas</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2022-11-07T10:09:00Z</o:Created>
+  <o:LastSaved>2022-11-07T10:09:00Z</o:LastSaved>
+  <o:Pages>9</o:Pages>
+  <o:Words>2045</o:Words>
+  <o:Characters>11252</o:Characters>
+  <o:Lines>93</o:Lines>
+  <o:Paragraphs>26</o:Paragraphs>
+  <o:CharactersWithSpaces>13271</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:ContentTypeId dt:dt="string">0x010100199222A0C208FF428375472E2D42D294</o:ContentTypeId>
+  <o:xd_ProgID dt:dt="string"></o:xd_ProgID>
+  <o:ComplianceAssetId dt:dt="string"></o:ComplianceAssetId>
+  <o:TemplateUrl dt:dt="string"></o:TemplateUrl>
+  <o:_ExtendedDescription dt:dt="string"></o:_ExtendedDescription>
+  <o:TriggerFlowInfo dt:dt="string"></o:TriggerFlowInfo>
+  <o:xd_Signature dt:dt="boolean">0</o:xd_Signature>
+  <o:MediaServiceImageTags dt:dt="string"></o:MediaServiceImageTags>
+ </o:CustomDocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<p> </p>
+<!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]-->
+<p> </p>
+<!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+<p> </p>
+<!-- [if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]-->
+<p> </p>
+<!-- [if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+<div class="WordSection1">
+<p>A continuación se definen las preguntas que se emplearán durante el juego:</p>
+<h3 class="MsoNormal"><span style="mso-ansi-language: ES-EC;">Perro:<span style="mso-tab-count: 1;">                                                                     </span> </span></h3>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">1.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuáles de los siguientes alimentos no puede comer un perro?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Chocolate</span><span style="mso-ansi-language: ES-EC;"> </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Pavo</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Pan </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Apio </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">2.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuántas veces hay que sacar a pasear a un perro?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">0 veces al día </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">1 veces al día </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">2-3 veces al día</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Cada 2-3 horas</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">3.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuántos años vive un perro doméstico en promedio?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Menos de 4 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Entre 5 y 9 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Entre 10 y 13 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Más de 14 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">4.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuándo se debe colocar la vacuna del moquillo en un cachorro?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">A la primera semana de vida</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">A partir de la sexta semana de vida</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Justo al cumplir un año de vida </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Después de dos años de vida. </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">5.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Con qué edad abren los ojos los cachorros?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">El mismo día que nacen.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Sobre los 12 días desde el nacimiento.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="EN-US">Al mes de nacer.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Cuando maman de la madre.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">6.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Cuándo se le pone la primera vacuna?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">2 Meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">3 Meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">4 Meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">5 Meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">7.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Cuántas veces al año debemos desparasitarlos por dentro (parásitos intestinales)?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">No hace falta desparasitarlos.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Todos los meses.</span><span lang="ES-US" style="mso-ansi-language: ES-US;"> </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Cada 3 meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Cada 12 meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">8.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Cuántas veces al año debemos desparasitarlos por fuera (pulgas y garrapatas)?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Solo en verano.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Solo cuando llueve.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Todos los meses.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Cuando veo alguna garrapata o pulga en mi perro.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">9.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Es cierto que los perros solo ven en blanco y negro?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">No.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Sí.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Ven la vida de color de rosa.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Ven solo en amarillo y rojo.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">10.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Cuántas veces es más potente el olfato del perro con respecto al del ser humano?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Igual.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">2 – 3 veces más.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">10 veces más.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">40 – 60 veces más.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">11.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cómo oyen los perros en comparación con las personas?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Más y mejor.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Más lejos pero peor.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Igual.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Peor.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">12.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cómo saborean los perros en comparación con las personas?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Mejor.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Igual.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Peor.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">13.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">El vínculo entre un perro y su dueño es similar al de una madre con su hijo.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Verdadero</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Falso</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">14.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Por qué sacan tanto la lengua los perros?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Para mostrar su júbilo o carácter afable.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Es un gesto inconsciente como respirar.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Para regular su temperatura corporal.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">15.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Los perros no son pesimistas por naturaleza</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Verdadero</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Falso</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">16.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Cuántas palabras humanas pueden entender los perros?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Ninguna</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Más de 150 palabras.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Más de 225 palabras.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">17.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Dormir con perros empeora la calidad del sueño</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Verdadero</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Falso</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">18.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">No es raro ver a un perro bostezar pero... ¿por qué lo hacen?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Por empatía con los seres humanos.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Para regular su temperatura corporal.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Para conseguir una recompensa o snack.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">19.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Los perros pueden donar sangre?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Sí</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">No</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">20.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Cuál de estos alimentos no debería comer una mascota?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Carne cruda</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Macarrones con tomate</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Pollo a la plancha</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">21.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Tener perro es bueno para el corazón</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Verdadero</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Falso</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">22.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Los perros domésticos surgieron...</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Hace 12.000 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Hace 16.000 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Hace 20.000 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">23.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Los perros tienen el cerebro igual de grande que los gatos</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Verdadero</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Falso</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">24.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Qué es el síndrome del arca de Noé?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Es un trastorno del comportamiento caracterizado por el aislamiento voluntario y la acumulación de basura.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">Es un trastorno del comportamiento en el que el que la padece está convencido de ser Noé y acumula decenas de pares de mascotas en su hogar.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Es un trastorno del comportamiento caracterizado por la reunión obsesiva y masiva de animales domésticos en el hogar.</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l9 level1 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">25.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">¿Lo perros pueden entender tus expresiones faciales?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Si</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l9 level2 lfo10;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="mso-ansi-language: ES-US;">No</span></p>
+<h3 class="MsoNormal"><span style="mso-ansi-language: ES-EC;">Gato:</span></h3>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">1.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuáles 2 de los siguientes alimentos debe comer un gato adulto?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Pan </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Uvas</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Pollito </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Leche</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">2.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuántas veces hay que sacar a pasear a un gato? </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">0 veces al día </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">1 veces al día </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">2-3 veces al día </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Cada 2-3 horas</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">3.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuántos años vive un gato doméstico en promedio?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Menos de 5 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Entre 6 y 11 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Entre 12 y 18 años</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Más de 19 años </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">4.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cuál es la mejor edad para castrar a un gato? <span style="background: aqua; mso-highlight: aqua;">GATO</span> </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">1 – 3 meses de edad</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">4 – 6 meses de edad</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">A los 3 años </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Nunca se debe castrar a un gato</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><a name="_Int_xqIPI4nL"></a> <!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">5.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿A los cuántos meses se debe empezar a desparasitar un gato?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Justo en el momento en que nace </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Aproximadamente al mes y medio de haber nacido</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">A los 2 años de vida</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">No es necesario <a name="_Int_WrCuSIVB"></a>desparasitar un gato </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><a name="_Int_mPD6Pvs9"></a> <!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">6.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿A los cuántos meses se les colocan las vacunas a los gatos?</span> </p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Entre los 2 – 3 meses de vida</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Al año de vida del felino </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">En el momento que nace </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><a name="_Int_05ZHvSMF"></a> <!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Las vacunas</span> <span style="mso-ansi-language: ES-EC;"> no son importantes </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: aqua; mso-highlight: aqua; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">7.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Cómo traslada una mamá gata a sus gatitos tras el nacimiento?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Los empuja con el hocico</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span lang="ES-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span lang="ES-US" style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-US;">Los coge con su boca por el pescuezo</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span lang="EN-US">Los toma con las garras</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Trepa a cada gatito en su espalda</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">8.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Qué se puede hacer cuando un gato esta envenenado?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Darle leche </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Paracetamol </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Llevarlo con un veterinario</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Darle agua</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">9.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">¿Qué alimentos no se les debe dar a los gatos?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Chocolates y café</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Atún </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Pollo hervido </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Brócoli</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">10.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;"><span style="mso-spacerun: yes;"> </span>¿Cuál es el peso común de un gato adulto?</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="background: lightgrey; mso-highlight: lightgrey; mso-ansi-language: ES-EC;">Entre 3.5 y 5 Kg</span><span style="mso-ansi-language: ES-EC;"> <span style="background: lightgrey; mso-highlight: lightgrey;"> </span></span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Entre 2.5 y 3.5 Kg</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Entre 3 y 4 Kg</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Ninguna de las anteriores </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="text-indent: -18.0pt; mso-list: l3 level1 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">11.<span style="font: 7.0pt 'Times New Roman';">  </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Nombre del gato que tenía Lisa en Los Simpson</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">a.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Marie </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">b.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Azrael </span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">c.<span style="font: 7.0pt 'Times New Roman';">      </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Bola de Nieve </span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-left: 72.0pt; mso-add-space: auto; text-indent: -18.0pt; mso-list: l3 level2 lfo12;"><!-- [if !supportLists]--><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; mso-ansi-language: ES-EC;"><span style="mso-list: Ignore;">d.<span style="font: 7.0pt 'Times New Roman';">     </span></span></span> <!--[endif]--><span style="mso-ansi-language: ES-EC;">Touluse </span><strong style="mso-bidi-font-weight: normal;"><span lang="ES-US" style="font-size: 12.0pt; line-height: 107%; mso-ansi-language: ES-US;">  </span></strong></p>
+<p class="MsoNormal" style="text-indent: 36.0pt;"><strong style="mso-bidi-font-weight: normal;"><span lang="ES-US" style="font-size: 12.0pt; line-height: 107%; mso-ansi-language: ES-US;">   </span></strong></p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>En busca de hogar - Definición</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal-4.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal-4.html</id>
+            <category term="Ideación II"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T04:58:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    ¿Qué debe hacer un jugador para ganar?&nbsp; Llegar primero a una casa. Si es en equipo, todo el equipo debe&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h3 id="qu-debe-hacer-un-jugador-para-ganarnbsp">
+      ¿Qué debe hacer un jugador para ganar?&nbsp;
+    </h3>
+
+  <p>
+    Llegar primero a una casa. Si es en equipo, todo el equipo debe llegar primero  
+  </p>
+
+    <h2 id="accin-ms-importante-que-un-jugador-puede-tomar--">
+      Acción más importante que un jugador puede tomar  
+    </h2>
+
+  <p>
+    Definir
+  </p>
+
+    <h2 id="escriban-las-reglas-y-procedimientos-en-formato-outline-puntos-que-ampliarn-durante-el-proceso--">
+      Escriban las reglas y procedimientos en formato “outline” (puntos que ampliarán durante el proceso)  
+    </h2>
+
+  <p>
+    Definir
+  </p>
+
+    <h2 id="diagramar-cmo-funciona-un-turno-normal-un-diagrama-de-flujos-es-lo-ms-efectivo--">
+      Diagramar cómo funciona un turno normal. Un diagrama de flujos es lo más efectivo  
+    </h2>
+
+  <p>
+    Definir<br><br>Por turnos, todos lanzan un par de dadas. Solo en casos especiales se pierde turno o se lanza 1 solo dado.&nbsp;
+  </p>
+
+    <h2 id="cuntos-jugadores-puede-haber">
+      ¿Cuántos jugadores puede haber?
+    </h2>
+
+  <p>
+    De 2 a 6 jugadores.
+  </p>
+
+    <h2 id="cmo-interactan-los-jugadores">
+      ¿Cómo interactúan los jugadores?
+    </h2>
+
+  <p>
+    Pueden hacer equipos
+  </p>
+
+  <ul>
+    <li>De la calle a la casa (1/6 votos)</li><li>A casa (0/6 votos)&nbsp;</li><li><b>En busca de hogar (5/6 votos)</b></li>
+  </ul>
+
+  <p>
+    Todo público 12+ años.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>En busca de hogar - Elementos</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal-3.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal-3.html</id>
+        <media:content url="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/JuegoDeLaCasaALaCalle2-2.jpg" medium="image" />
+            <category term="Ideación II"/>
+            <category term="Idea principal"/>
+
+        <updated>2022-11-07T05:06:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/JuegoDeLaCasaALaCalle2-2.jpg" alt="" />
+                    ¿Cuál es el conflicto del juego? Llevar a un animal callejero a un hogar que quiera una mascota, pero para&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/JuegoDeLaCasaALaCalle2-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <h3 id="cul-es-el-conflicto-del-juego">
+      ¿Cuál es el conflicto del juego?
+    </h3>
+
+  <p>
+    Llevar a un animal callejero a un hogar que quiera una mascota, pero para ello tiene que poco a poco ir avanzando en un mapa lleno de preguntas, retos y castigos para lograrlo. 
+  </p>
+
+    <h2 id="cules-son-las-reglas-y-procedimientos">
+      ¿Cuáles son las reglas y procedimientos?
+    </h2>
+
+  <p>
+    Se tiene un tablero el cual posee caminos lineales y cíclicos. Existen ciertas casillas que pueden ser de tres tipos: pregunta, reto y castigo. Al inicio se ubicarán las casas en posiciones aleatorias definidas por un ordenador. Cada jugador tiene 0 puntos, un equipo consiste de 2 o 3 jugadores de la misma especie. El equipo gana si todos los jugadores logran pasar por la casa destinada para esa especie con 40 puntos.
+  </p>
+
+  <p>
+    Los jugadores se mueven por el tablero usando mayormente dos dados.
+  </p>
+
+  <p>
+    Si el jugador cae en la casilla de pregunta, tiene que responder la pregunta correctamente para ganar los puntos.
+  </p>
+
+  <p>
+    Si el jugador cae en la casilla de reto, tiene que realizar el reto a menos que quiera perder los puntos
+  </p>
+
+  <p>
+    Si el jugador cae en la casilla de castigo, tiene que tirar la ruleta y someterse al castigo.
+  </p>
+
+  <p>
+    
+  </p>
+
+    <h2 id="qu-acciones-pueden-tomar-los-jugadores-y-cundo-las-toman-nbsp">
+      ¿Qué acciones pueden tomar los jugadores y cuándo las toman? &nbsp;
+    </h2>
+
+  <ul>
+    <li>Avanzar</li><li>Responder preguntas</li><li>Mover hogares</li><li>Ganar puntos</li>
+  </ul>
+
+    <h2 id="hay-turnos-cmo-funcionan-nbsp">
+      ¿Hay turnos? ¿Cómo funcionan? &nbsp;
+    </h2>
+
+  <p>
+    Sí hay turnos. Con el lanzamiento de dados se avanza, no hay un solo camino. <br><br>Si sale el mismo número en los dados, se lanza otra vez. Si sale el mismo número en los 2 dados, se avanza y se pierde turno en la siguiente ronda&nbsp;
+  </p>
+
+    <h2 id="cuntos-jugadores-puede-haber">
+      ¿Cuántos jugadores puede haber?
+    </h2>
+
+  <p>
+    De 2 a 4 jugadores.
+  </p>
+
+    <h2 id="cunto-se-demora-en-resolver-el-juego-">
+      ¿Cuánto se demora en resolver el juego? 
+    </h2>
+
+  <p>
+    &nbsp;Aproximadamente 
+  </p>
+
+    <h2 id="cul-es-el-nombre-ttulo-del-proyecto-proyecto-espada-nbsp">
+      ¿Cuál es el nombre (título) del proyecto? (Proyecto Espada) &nbsp;
+    </h2>
+
+  <ul>
+    <li>De la calle a la casa (1/6 votos)</li><li>A casa (0/6 votos)&nbsp;</li><li><b>En busca de hogar (5/6 votos)</b></li>
+  </ul>
+
+    <h2 id="cul-es-la-audiencia-del-juego-nbsp">
+      ¿Cuál es la audiencia del juego? &nbsp;
+    </h2>
+
+  <p>
+    Todo público 12+ años.
+  </p>
+
+    <h1 id="ideas-de-tableros">
+      Ideas de tableros
+    </h1>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/juegoDeLaCasaALaCalle.jpg" height="1969" width="2960" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/juegoDeLaCasaALaCalle-xs.jpg 384w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/juegoDeLaCasaALaCalle-sm.jpg 600w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/juegoDeLaCasaALaCalle-md.jpg 768w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/juegoDeLaCasaALaCalle-lg.jpg 1200w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/juegoDeLaCasaALaCalle-xl.jpg 1600w">
+      <figcaption>Votos: 1/7 personas</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/JuegoDeLaCasaALaCalle2.jpg" height="1118" width="1491" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/JuegoDeLaCasaALaCalle2-xs.jpg 384w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/JuegoDeLaCasaALaCalle2-sm.jpg 600w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/JuegoDeLaCasaALaCalle2-md.jpg 768w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/JuegoDeLaCasaALaCalle2-lg.jpg 1200w ,https://luisabrie.github.io/DocumentacionProyectoVJ/media/posts/26/responsive/JuegoDeLaCasaALaCalle2-xl.jpg 1600w">
+      <figcaption>Votos: 6/7 personas</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fight Pet</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal-2.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal-2.html</id>
+            <category term="Ideación II"/>
+            <category term="Idea tercera"/>
+
+        <updated>2022-11-07T05:29:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    ¿Cuál es el conflicto del juego? Duelo de cuidados de mascotas: es un juego de mesa en el cual dos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h3 id="cul-es-el-conflicto-del-juego">
+      ¿Cuál es el conflicto del juego?
+    </h3>
+
+  <p>
+    Duelo de cuidados de mascotas: es un juego de mesa en el cual dos jugadores competirán por el cuidado de la mascota que le tocó.
+  </p>
+
+    <h2 id="cules-son-las-reglas-y-procedimientos">
+      ¿Cuáles son las reglas y procedimientos?
+    </h2>
+
+  <p>
+    Cada jugador empieza con 50 puntos de vida.
+  </p>
+
+  <p>
+    En el turno se puede agarrar una carta de la baraja de cartas en el centro de la mesa, las cuales consistente sobre&nbsp; l cuidado de la mascota.
+  </p>
+
+  <p>
+    Podrán ser cartas que aumenten el puntaje del jugador y otras que disminuyan el puntaje. El juego finaliza cuando un jugador llegue a los 100 puntos o el otro jugador pierda todos los puntos de vida.
+  </p>
+
+    <h2 id="qu-acciones-pueden-tomar-los-jugadores-y-cundo-las-toman-nbsp">
+      ¿Qué acciones pueden tomar los jugadores y cuándo las toman? &nbsp;
+    </h2>
+
+  <p>
+    -
+  </p>
+
+    <h2 id="hay-turnos-cmo-funcionan-nbsp">
+      ¿Hay turnos? ¿Cómo funcionan? &nbsp;
+    </h2>
+
+  <p>
+     Si es de turnos, como son dos jugadores primero uno luego el otro y asi sucesivamente 
+  </p>
+
+    <h2 id="cuntos-jugadores-puede-haber">
+      ¿Cuántos jugadores puede haber?
+    </h2>
+
+  <p>
+    2 jugadores.
+  </p>
+
+    <h2 id="cunto-se-demora-en-resolver-el-juego-">
+      ¿Cuánto se demora en resolver el juego? 
+    </h2>
+
+  <p>
+    25 minutos máximo
+  </p>
+
+    <h2 id="cul-es-el-nombre-ttulo-del-proyecto-proyecto-espada-nbsp">
+      ¿Cuál es el nombre (título) del proyecto? (Proyecto Espada) &nbsp;
+    </h2>
+
+  <ul>
+    <li>Fight pet</li>
+  </ul>
+
+    <h2 id="cul-es-la-audiencia-del-juego-nbsp">
+      ¿Cuál es la audiencia del juego? &nbsp;
+    </h2>
+
+  <p>
+    Todo público 8+ años.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rescata al animal</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal.html</id>
+            <category term="Ideación II"/>
+            <category term="Idea secundaria"/>
+
+        <updated>2022-11-07T04:42:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    ¿Cuál es el conflicto del juego? Rescatar a los animales abandonados que están en la baraja volteada. Se tiene una&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h3 id="cul-es-el-conflicto-del-juego">
+      ¿Cuál es el conflicto del juego?
+    </h3>
+
+  <p>
+    Rescatar a los animales abandonados que están en la baraja volteada.
+  </p>
+
+    <h2 id="cules-son-las-reglas-y-procedimientos">
+      ¿Cuáles son las reglas y procedimientos?
+    </h2>
+
+  <p>
+    Se tiene una baraja de cartas volteadas, a la cual se tiene que ir volteando para encontrar a los animales abandonados y rescatarlos.
+  </p>
+
+  <p>
+    El que más rescate animales, gana.
+  </p>
+
+    <h2 id="qu-acciones-pueden-tomar-los-jugadores-y-cundo-las-toman-nbsp">
+      ¿Qué acciones pueden tomar los jugadores y cuándo las toman? &nbsp;
+    </h2>
+
+  <p>
+    Voltear las cartas y sumar rescates&nbsp;
+  </p>
+
+    <h2 id="hay-turnos-cmo-funcionan-nbsp">
+      ¿Hay turnos? ¿Cómo funcionan? &nbsp;
+    </h2>
+
+  <p>
+    Sí, en cada turno el jugador solo puede voltear 1 carta&nbsp;
+  </p>
+
+    <h2 id="cuntos-jugadores-puede-haber">
+      ¿Cuántos jugadores puede haber?
+    </h2>
+
+  <p>
+    De 2 a 4 jugadores.
+  </p>
+
+    <h2 id="cunto-se-demora-en-resolver-el-juego-">
+      ¿Cuánto se demora en resolver el juego? 
+    </h2>
+
+  <p>
+    &nbsp;Aproximadamente 5 a 10 minutos  
+  </p>
+
+    <h2 id="cul-es-el-nombre-ttulo-del-proyecto-proyecto-espada-nbsp">
+      ¿Cuál es el nombre (título) del proyecto? (Proyecto Espada) &nbsp;
+    </h2>
+
+  <ul>
+    <li>Revela el animal</li><li>Rescata al animal&nbsp;</li>
+  </ul>
+
+    <h2 id="cul-es-la-audiencia-del-juego-nbsp">
+      ¿Cuál es la audiencia del juego? &nbsp;
+    </h2>
+
+  <p>
+    Todo público 10+ años.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Juegos a Computador no considerados</title>
+        <author>
+            <name>Winners</name>
+        </author>
+        <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/juegos-a-computador-no-considerados.html"/>
+        <id>https://luisabrie.github.io/DocumentacionProyectoVJ/juegos-a-computador-no-considerados.html</id>
+            <category term="Ideación I"/>
+
+        <updated>2022-11-07T04:32:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Animalito de la calle que tiene misiones para ayudar a las personas que están la calle.Animalito hambriento, en una pantalla&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <ul>
+    <li>Animalito de la calle que tiene misiones para ayudar a las personas que están la calle.</li><li>Animalito hambriento, en una pantalla vertical, el animal esta abajo y desde arriba caen objetos. Los cuales puede ser comida comestible o no comestible, así como cosas que no son comida. El animalito debe solo ponerse debajo de lo que si come caso contrario va perdiendo vida.</li><li>Un conjunto de clubs de mascotas, en donde los dueños pueden interactuar con otros, convivir con sus otras mascotas, hacer diferentes actividades, hacer grupos.</li><li>Un juego con varios niveles, de los más fáciles a los más difíciles, que consisten en el entrenamiento de un perro para que se capacite como ayudante de bomberos</li><li>Un juego de computador individual en donde podrás descubrir qué mascota es la ideal para tí y para tus condiciones.</li><li>Un perro o gato corriendo por la calle, mientras eso, se le va presentando varios obstáculos que debe pasar, al pasarlos todos termina en un hogar</li><li>El jugador es un perrito que sus misiones consisten en ayudar a realizar tareas a persona no videntes</li><li>Un juego, donde hay varios jugadores conectados a un mismo link de juego, en el cual sale frases relacionadas a las mascotas. Ejemplo de frase: “Que no puede comer un perro?”. Los jugares deben listar el mayor número de respuestas en X tiempo.</li><li>Un juego de navegador masivo, en perspectiva cenital, el cual habrá muchos personajes de personas en línea en el mapa y habrán animales abandonados al rededor del mapa que se alejan cuando un personaje se les acerca, el que rescate más animales por partida gana.</li><li>Un videojuego de una ciudad de mascotas, en donde cada jugador representa un animalito, debe tomar acciones para que el animalito sobreviva en la ciudad, en esta puede haber peligros, sin embargo, deberá esquivarlos, se pueden hacer manadas para convivir y crecer la comunidad.<br></li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
