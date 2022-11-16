@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://luisabrie.github.io/DocumentacionProyectoVJ/ruleta.html",
-            "url": "https://luisabrie.github.io/DocumentacionProyectoVJ/ruleta.html",
-            "title": "Ruleta",
-            "summary": "Gira la ruleta para conocer tu castigo",
-            "content_html": "<div>\n<div>\n<p id=\"premio\" class=\"elije\">Gira la ruleta para conocer tu castigo</p>\n<section class=\"vara\"></section>\n<div><img loading=\"lazy\" id=\"ruleta\" src=\"image/ruleta.png\" data-is-external-image=\"true\"></div>\n<div class=\"pregs\"> </div>\n</div>\n</div>\n<!-- SCRIPTS EXTERNOS -->\n<p>\n<script src=\"js/jquery.min.js\"></script>\n<script src=\"https://cdn.jsdelivr.net/npm/sweetalert2@10\"></script>\n<script src=\"js/script.js\"></script>\n</p>",
-            "author": {
-                "name": "Winners"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-11-16T08:44:16-05:00",
-            "date_modified": "2022-11-16T08:44:16-05:00"
-        },
-        {
             "id": "https://luisabrie.github.io/DocumentacionProyectoVJ/manual-de-usuario.html",
             "url": "https://luisabrie.github.io/DocumentacionProyectoVJ/manual-de-usuario.html",
             "title": "Manual de usuario",
@@ -166,6 +152,22 @@
             ],
             "date_published": "2022-11-07T04:44:16-05:00",
             "date_modified": "2022-11-07T05:29:43-05:00"
+        },
+        {
+            "id": "https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal.html",
+            "url": "https://luisabrie.github.io/DocumentacionProyectoVJ/rescata-al-animal.html",
+            "title": "Rescata al animal",
+            "summary": "¿Cuál es el conflicto del juego? Rescatar a los animales abandonados que están en la baraja volteada. Se tiene una&hellip;",
+            "content_html": "\n    <h3 id=\"cul-es-el-conflicto-del-juego\">\n      ¿Cuál es el conflicto del juego?\n    </h3>\n\n  <p>\n    Rescatar a los animales abandonados que están en la baraja volteada.\n  </p>\n\n    <h2 id=\"cules-son-las-reglas-y-procedimientos\">\n      ¿Cuáles son las reglas y procedimientos?\n    </h2>\n\n  <p>\n    Se tiene una baraja de cartas volteadas, a la cual se tiene que ir volteando para encontrar a los animales abandonados y rescatarlos.\n  </p>\n\n  <p>\n    El que más rescate animales, gana.\n  </p>\n\n    <h2 id=\"qu-acciones-pueden-tomar-los-jugadores-y-cundo-las-toman-nbsp\">\n      ¿Qué acciones pueden tomar los jugadores y cuándo las toman? &nbsp;\n    </h2>\n\n  <p>\n    Voltear las cartas y sumar rescates&nbsp;\n  </p>\n\n    <h2 id=\"hay-turnos-cmo-funcionan-nbsp\">\n      ¿Hay turnos? ¿Cómo funcionan? &nbsp;\n    </h2>\n\n  <p>\n    Sí, en cada turno el jugador solo puede voltear 1 carta&nbsp;\n  </p>\n\n    <h2 id=\"cuntos-jugadores-puede-haber\">\n      ¿Cuántos jugadores puede haber?\n    </h2>\n\n  <p>\n    De 2 a 4 jugadores.\n  </p>\n\n    <h2 id=\"cunto-se-demora-en-resolver-el-juego-\">\n      ¿Cuánto se demora en resolver el juego? \n    </h2>\n\n  <p>\n    &nbsp;Aproximadamente 5 a 10 minutos  \n  </p>\n\n    <h2 id=\"cul-es-el-nombre-ttulo-del-proyecto-proyecto-espada-nbsp\">\n      ¿Cuál es el nombre (título) del proyecto? (Proyecto Espada) &nbsp;\n    </h2>\n\n  <ul>\n    <li>Revela el animal</li><li>Rescata al animal&nbsp;</li>\n  </ul>\n\n    <h2 id=\"cul-es-la-audiencia-del-juego-nbsp\">\n      ¿Cuál es la audiencia del juego? &nbsp;\n    </h2>\n\n  <p>\n    Todo público 10+ años.\n  </p>",
+            "author": {
+                "name": "Winners"
+            },
+            "tags": [
+                   "Ideación II",
+                   "Idea secundaria"
+            ],
+            "date_published": "2022-11-07T04:42:38-05:00",
+            "date_modified": "2022-11-07T04:42:38-05:00"
         }
     ]
 }
