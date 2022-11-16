@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  text-align: center;
+}
+.pregs {
+  display: flex;
+  background-color: #a0d9ff;
+}
+
+p {
+  text-align: left;
+  margin: 5px;
+  font-weight: bold;
+}
+
+.vara {
+  height: 40px;
+  width: 2px;
+  background-color: #2778c4;
+  margin: auto;
+  position: relative;
+  top: 10px;
+  border-radius: 0px 0px 8px 8px;
+  border: 1px solid #000;
+  border-top: 5px solid #000;
+  z-index: 1000;
+}
+
+img {
+  /* z-index: 100; */
+  transition: all 5s;
+  width: 57%;
+}
+
+#premio {
+  color: rgb(11, 10, 10);
+  position: inherit;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+
+  
+}
