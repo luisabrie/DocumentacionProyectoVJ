@@ -3,7 +3,7 @@
     <title>En busca de hogar</title>
     <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/feed.xml" rel="self" />
     <link href="https://luisabrie.github.io/DocumentacionProyectoVJ" />
-    <updated>2022-11-16T08:16:26-05:00</updated>
+    <updated>2022-11-16T08:18:04-05:00</updated>
     <author>
         <name>Winners</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/manual-de-usuario.html"/>
         <id>https://luisabrie.github.io/DocumentacionProyectoVJ/manual-de-usuario.html</id>
+            <category term="Manual"/>
 
-        <updated>2022-11-16T08:16:26-05:00</updated>
+        <updated>2022-11-16T08:18:04-05:00</updated>
             <summary>
                 <![CDATA[
                     Número de jugadores: De 2 a 6 jugadores&nbsp; Duración aproximada del juego: 45-120 minutos&nbsp; Edad mínima recomendada: 10 años&nbsp; Tipo:&hellip;
