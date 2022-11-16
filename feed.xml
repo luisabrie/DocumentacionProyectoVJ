@@ -3,7 +3,7 @@
     <title>En busca de hogar</title>
     <link href="https://luisabrie.github.io/DocumentacionProyectoVJ/feed.xml" rel="self" />
     <link href="https://luisabrie.github.io/DocumentacionProyectoVJ" />
-    <updated>2022-11-16T09:05:01-05:00</updated>
+    <updated>2022-11-16T10:22:15-05:00</updated>
     <author>
         <name>Winners</name>
     </author>
@@ -51,7 +51,7 @@
         <id>https://luisabrie.github.io/DocumentacionProyectoVJ/manual-de-usuario.html</id>
             <category term="Manual"/>
 
-        <updated>2022-11-16T09:05:01-05:00</updated>
+        <updated>2022-11-16T10:22:15-05:00</updated>
             <summary>
                 <![CDATA[
                     Número de jugadores: De 2 a 6 jugadores&nbsp; Duración aproximada del juego: 45-120 minutos&nbsp; Edad mínima recomendada: 10 años&nbsp; Tipo:&hellip;
@@ -80,12 +80,20 @@
     <b>Género:</b> Familiar-Amistoso&nbsp;
   </p>
 
+  <div class="post__toc">
+    <h3>Tabla de Contenido</h3>
+    <ul>
+      <li><a href="#introduccin">Introducción</a></li><li><a href="#instruccionesnbsp">Instrucciones&nbsp;</a><ul><li><a href="#reglas">Reglas</a><ul><li><a href="#puntos">Puntos</a></li><li><a href="#castigos">Castigos</a></li><li><a href="#casillas-de-preguntas">Casillas de preguntas</a></li><li><a href="#casillas-de-retos">Casillas de retos</a></li><li><a href="#casillas-de-castigos">Casillas de castigos</a></li><li><a href="#casillas-azul">Casillas azul</a></li><li><a href="#casillas-de-hogar">Casillas de hogar:</a></li><li><a href="#fin-del-juego">Fin del juego:</a></li></ul></li></ul></li>
+    </ul>
+  </div>
+  
+
     <h2 id="introduccin">
       Introducción
     </h2>
 
   <p>
-    En busca de hogar es un juego de mesa enfocado a fomentar el cuidado animal. puede ser disfrutado en grupos de dos (2) a seis (6) personas, el objetivo es llevar a tu mascota a un hogar.  <br><br>Puedes jugar individualmente contra otro oponente (1 vs 1) o en grupos (2 vs 2) o (3 vs 3).&nbsp;
+    <b><em>En busca de hogar</em></b> es un juego de mesa enfocado a fomentar el cuidado animal. puede ser disfrutado en grupos de dos (2) a seis (6) personas, el objetivo es llevar a tu mascota a un hogar.  <br><br>Puedes jugar individualmente contra otro oponente (1 vs 1) o en grupos (2 vs 2) o (3 vs 3).&nbsp;
   </p>
 
     <h2 id="instruccionesnbsp">
