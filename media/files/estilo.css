@@ -2,15 +2,15 @@
   margin: 0px;
   text-align: center;
 }
-.pregs {
-  display: flex;
-  background-color: #a0d9ff;
-}
 
 p {
+  background-color: #a0d9ff;
   text-align: left;
   margin: 5px;
-  font-weight: bold;
+  /* font-weight: bold; */
+}
+p:nth-child(even) {
+  background-color: rgb(169, 146, 202);
 }
 
 .vara {
@@ -36,8 +36,8 @@ img {
   color: rgb(11, 10, 10);
   position: inherit;
   font-weight: bold;
-  font-size: 25px;
-  padding: 20px;
+  font-size: 14px;
+  /* padding: 20px; */
   text-align: center;
 
   
